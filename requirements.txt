@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+pyfiglet
+flask
+requests
