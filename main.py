@@ -500,6 +500,9 @@ def support_msg(message):
     )
     bot.send_message(message.chat.id, "✅ Mesajınız iletildi.")
 
+#==================keep_alive.py=========
+from keep_alive import keep_alive
+keep_alive()
 # ================= RUN =================
 import time
 
