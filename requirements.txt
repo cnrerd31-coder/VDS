@@ -1,4 +1,3 @@
 pyTelegramBotAPI
-pyfiglet
-flask
-requests
+
+
